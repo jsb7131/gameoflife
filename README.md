@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
 
+
+The app depends on Bootstrap files (declared in the .angular-cli.json) for styling that live in the node_modules folder, which is ignored (.gitignore) and unavailable in this repository.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
